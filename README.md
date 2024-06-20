@@ -16,6 +16,7 @@ Project Trashub, which is an app that focuses on developing a mobile application
 
 ## Dataset
 * [Sampah](https://drive.google.com/file/d/1Q4M-0MDU9ji7nB4H36InilMEyLLTgS-P/view?usp=sharing)
+
 For food image classification, we have 27 classes in total:
 + cardboard
 + clothes
