@@ -26,5 +26,4 @@ Focusing on the machine learning aspects of our project Trashub, which is an app
 For the dataset, access in this link : https://drive.google.com/file/d/1Q4M-0MDU9ji7nB4H36InilMEyLLTgS-P/view?usp=sharing
 
 ## Model Demo
-The demo for our model, you can access in this link :
-
+The demo for our model, you can access in this link : https://colab.research.google.com/drive/1nHUX531tq7lhN_0uSOleKdwt7onhmxyc?usp=sharing
