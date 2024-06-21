@@ -17,7 +17,7 @@ Project Trashub, which is an app that focuses on developing a mobile application
 ## Dataset
 * [Sampah](https://drive.google.com/file/d/1Q4M-0MDU9ji7nB4H36InilMEyLLTgS-P/view?usp=sharing)
 
-For food image classification, we have 27 classes in total:
+For the image classification of waste types, we have a total of 12 classes:
 + cardboard
 + clothes
 + electronics
@@ -42,5 +42,4 @@ The demo for our model, you can access in this link : [Model Demo](https://colab
 The training process is carefully detailed to ensure reproducibility and high performance. The trash classification model uses transfer learning with the MobileNet architecture, which has been modified for this specific task. The model leverages feature engineering and TF-IDF vectorization to classify different types of trash based on images.
 
 ## Evaluation
-
-
+Evaluation of the models is conducted using standard metrics to ensure they meet the expected performance standards. For the trash classification model, accuracy metrics are used to determine the model's performance on the validation dataset. The training process is documented with accuracy and loss values for each epoch, showing the model's improvement over time. The final model achieved a validation accuracy of 95.49%, demonstrating its effectiveness in classifying different types of trash.
